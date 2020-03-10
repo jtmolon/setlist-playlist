@@ -1,0 +1,3 @@
+Flask==1.1.1
+python-decouple==3.3
+repertorio==0.0.1
